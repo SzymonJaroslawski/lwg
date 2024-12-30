@@ -3,7 +3,7 @@ go 1.23.4
 use (
 	./cmd
 	./games
-	./internal/conf
+	./internal/conf/
 	./internal/runners
 	./internal/uitls
 )
